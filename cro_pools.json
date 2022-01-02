@@ -1896,5 +1896,39 @@
         "lpBaseTokenAddress": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
         "sousId": 147,
         "vaultShareFarmContract": null
+    },
+    "KAFE-DSHAREUSDC-DUCKY": {
+        "poolCategory": "Vault",
+        "stakingToken": "0x3ac3a1a067e3159bd9201ab05c965bcc66763dfe",
+        "routerForQuote": "0x28a10fE91d4a8D0637999a903eEf9Ad5b1D9947C",
+        "poolId": 6,
+        "strategy": "0x14c3182E93460b6B1F4139D95aa7Fd51606EE080",
+        "vault": "0x36295990bAAEF60fA1B2904C4115F59f01513225",
+        "chef": "0xf5f678221551340Afb266D26eaeAEE7860746D42",
+        "rewardToken": "0xFD71FC52D34eD1Cfc8363e5528285B12b6b942c2",
+        "pendingRewardSignature": "pendingDegg(uint256,address)",
+        "tokenPerBlockFunc": "deggPerBlock()",
+        "hasDepositFee": true,
+        "isLP": true,
+        "lpBaseTokenAddress": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+        "sousId": 150,
+        "vaultShareFarmContract": null
+    },
+    "KAFE-WBTCUSDC-DUCKY": {
+        "poolCategory": "Vault",
+        "stakingToken": "0xee544e9aa287a0f741de119eee535c996391baa7",
+        "routerForQuote": "0x28a10fE91d4a8D0637999a903eEf9Ad5b1D9947C",
+        "poolId": 7,
+        "strategy": "0x387cC50169555DF3A60CDBDDC98eefD8762a3553",
+        "vault": "0xD4F53e0dF8a2B466E5F99F80583bDC63Bf03A71A",
+        "chef": "0xf5f678221551340Afb266D26eaeAEE7860746D42",
+        "rewardToken": "0xFD71FC52D34eD1Cfc8363e5528285B12b6b942c2",
+        "pendingRewardSignature": "pendingDegg(uint256,address)",
+        "tokenPerBlockFunc": "deggPerBlock()",
+        "hasDepositFee": true,
+        "isLP": true,
+        "lpBaseTokenAddress": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+        "sousId": 151,
+        "vaultShareFarmContract": null
     }
 }
