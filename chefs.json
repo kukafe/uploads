@@ -51,12 +51,7 @@
     "rewardToken": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
     "rewardTokenSymbol": "PHOTON",
     "poolContracts": [
-      "0x1173EC73A71F175d09BB064739F6DF1Cb67b8cEE",
-      "0xF6d8b6472446148e74FdE8cce76737CaB633fb09",
-      "0xAb2e8F88b222b1cBB07610F29F7a9e2B9d63701c",
-      "0xd0C1DCD0bD07aFcccFA31dc4F81B0f8EFF25B8C4",
-      "0xE799eF8FBe2A8601914480aD67ed6ED57eb6cb0C",
-      "0xC37Ed3fe538264f1f896C444c6EBdFB8E9C266F2"
+      "0xE799eF8FBe2A8601914480aD67ed6ED57eb6cb0C"
     ],
     "perBlockSignature": "rewardRate()",
     "pendingRewardsSignature": "earned(address)",
