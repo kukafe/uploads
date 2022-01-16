@@ -1,393 +1,395 @@
 [
-  {
-    "chefId": 0,
-    "type": "masterchef_synthetix",
-    "image": "",
-    "name": "crodex",
-    "nameDisplay": "crodex0",
-    "projectLink": "https://swap.crodex.app/#/crx",
-    "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
-    "rewardTokenSymbol": "CRX",
-    "poolContracts": [
-      "0xDb752eB155F6075d4Ba0e09c371eB5eBB0D4bAA5",
-      "0xc2FF850F3921C1dbeD263aa1Fa94FE2A898870a8",
-      "0x681E1dC139FEB9024F1C63b37673cFCD630817Bb",
-      "0xcdd27c1C74631700CA0Fa165f3450435C8D009f4",
-      "0x81E200976B7928aEFD34CE51544e65FE73e88bE4",
-      "0x8857591ea846cB23795538a7521c868f0E0D6844",
-      "0x0f1e250f10F6AEb95A1B73DFd1d7f47a420236C4",
-      "0x5d05Ce6ae9FDC9dC3fBba240a98320Bc604f80a7",
-      "0x55B0FC13045B0bf6CD74631246b92f7abCFcCca2",
-      "0x12EE4bc798Fd985195b0d293c2c61fBf3DcDfe04",
-      "0x7d29D4b61E8A0A482BDf8e6c9b1985c67dD43780",
-      "0xAE7E71e15547dA622eaeAfA9b4272B4Ac1f9615a",
-      "0x866a0A67CfDe50b53361dE76b2013F4f134d347C",
-      "0xfA216318992dDE204b32f896a1b7897fdc8c6f27",
-      "0xeE1B28B5922426D8B1A9169F0e9681c2D870ECe3",
-      "0xe8aD609cb055329d84e6F7f430b098B46E9d3f51",
-      "0xd34d5d5D635b3090b85c3A3A96B0E8d78316aE0f",
-      "0xf632373d4cEc094d90B60ca509679332E0013183",
-      "0x485D894425e7B22822D2851d5622de9A99d249A1",
-      "0x5a25d023F298025aE1eC0549Fcba5F0f3D6c7Fc2",
-      "0x536F4b39D659c17C4255E2d235f5fdb836Fa165E",
-      "0xf3EC6425c71613Fb2f1c225C535bBd32221C070e",
-      "0x9F6a444C79F1Cb15B1e6CE3EB8DcB1112036ad7C"
-    ],
-    "perBlockSignature": "rewardRate()",
-    "pendingRewardsSignature": "earned(address)",
-    "factories": [
-      "0xe9c29cB475C0ADe80bE0319B74AD112F1e80058F"
-    ],
-    "quoteRouters": [
-      "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be"
-    ]
-  },
-  {
-    "chefId": 1,
-    "type": "masterchef_synthetix",
-    "image": "",
-    "name": "photon",
-    "projectLink": "https://photonswap.finance/#/photon",
-    "rewardToken": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
-    "rewardTokenSymbol": "PHOTON",
-    "poolContracts": [
-      "0xE799eF8FBe2A8601914480aD67ed6ED57eb6cb0C"
-    ],
-    "perBlockSignature": "rewardRate()",
-    "pendingRewardsSignature": "earned(address)",
-    "factories": [
-      "0x462C98Cae5AffEED576c98A55dAA922604e2D875"
-    ],
-    "quoteRouters": [
-      "0x69004509291F4a4021fA169FafdCFc2d92aD02Aa"
-    ]
-  },
-  {
-    "chefId": 2,
-    "type": "masterchef",
-    "image": "",
-    "name": "vvs",
-    "projectLink": "https://vvs.finance/farms",
-    "masterchefAddress": "0xDccd6455AE04b03d785F12196B492b18129564bc",
-    "rewardToken": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
-    "rewardTokenSymbol": "VVS",
-    "poolIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14
-    ],
-    "perBlockSignature": "vvsPerBlock()",
-    "pendingRewardsSignature": "pendingVVS(uint256,address)",
-    "factories": [
-      "0x3B44B2a187a7b3824131F8db5a74194D0a42Fc15"
-    ],
-    "quoteRouters": [
-      "0x145863Eb42Cf62847A6Ca784e6416C1682b1b2Ae"
-    ],
-    "referralMode": false,
-    "stakingMode": true,
-    "hasDepositFee": false
-  },
-  {
-    "chefId": 3,
-    "type": "masterchef",
-    "image": "",
-    "name": "crona",
-    "projectLink": "https://app.cronaswap.org/farms",
-    "masterchefAddress": "0x77ea4a4cF9F77A034E4291E8f457Af7772c2B254",
-    "rewardToken": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
-    "rewardTokenSymbol": "CRONA",
-    "poolIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26
-    ],
-    "perBlockSignature": "cronaPerSecond()",
-    "pendingRewardsSignature": "pendingCrona(uint256,address)",
-    "factories": [
-      "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11"
-    ],
-    "quoteRouters": [
-      "0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918"
-    ],
-    "referralMode": false,
-    "stakingMode": true,
-    "hasDepositFee": false,
-    "isTimeBased": true
-  },
-  {
-    "chefId": 4,
-    "type": "masterchef",
-    "image": "",
-    "name": "smolswap",
-    "projectLink": "https://www.smolswap.com/farm",
-    "masterchefAddress": "0x66A5f06d9c8Bdc27bb0768eefF71D22B468fB464",
-    "rewardToken": "0x2ad63da83d6ff5da9e716dcae844d4f157405bdd",
-    "rewardTokenSymbol": "SMOL",
-    "poolIds": [
-      0,
-      2,
-      4,
-      8,
-      9,
-      10,
-      18,
-      19,
-      3,
-      5,
-      6
-    ],
-    "perBlockSignature": "smolPerBlock()",
-    "pendingRewardsSignature": "pendingSmol(uint256,address)",
-    "factories": [
-      "0x7aa2149ff9ef4a09d4ace72c49c26aae8c89fb48"
-    ],
-    "quoteRouters": [
-      "0x8118DD9fED86523Bf724e2EC5f56055Da0668AF4"
-    ],
-    "referralMode": false,
-    "stakingMode": true,
-    "hasDepositFee": false
-  },
-  {
-    "chefId": 5,
-    "type": "masterchef_synthetix",
-    "image": "",
-    "name": "crodex",
-    "nameDisplay": "crodex1",
-    "projectLink": "https://swap.crodex.app/#/crx",
-    "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
-    "rewardTokenSymbol": "CRX",
-    "poolContracts": [
-      "0xb0d451f6d8EFbc080e77889F44cBc6C1Cd4F25f6",
-      "0x64C1122AB542382d93f7893E7720cAd073a7D5BD",
-      "0x62dCf86B773727AC13aE4fAa3b914238dCdB34C7",
-      "0x89A768ec65AA60ecf517DCFD7C91346974ea2cf6",
-      "0x1ce36A6AE1426B797ec59d62ab7bf53435d64F45",
-      "0xb17949E524FCb77AD4b2A1bAdfA0c7153F2724e0",
-      "0xB5257a8073b7E35526926E69bCcFB5a0aAc3479a",
-      "0x12EC8ca29a7E27430a80c4014cf2e4Ea6080fC0c",
-      "0x208e1eC84b694D1266202a83c5F5c8B68ECc6034",
-      "0x1086AAa99fDd0CB4b8907627157e63EA1E9b9909",
-      "0x952C2B368A08cD21BC98B20aA79244fc6B7e3dD3",
-      "0xFc606CF4b0c8acea929D644Cb321159bd212c646",
-      "0x11615D7F7A2564Fe1336c68afA42294bA2146d18",
-      "0x36F579df3F4256f25f8E5067E3036f1d533885A8",
-      "0x61F0E0E84f417f2bAf9baD2716Fed6EcE7920b88",
-      "0x91d6C69f09c864146631481F7aFfc6BcD17a27ee",
-      "0x4c952A4337043ae44F0f2C5d168a6C53644C58DD",
-      "0x955F762ad1B56E93d0d28A36aa74cE4FE04c7a8C",
-      "0x0703C621E635634d31e143368910beA1BDbe1179",
-      "0x3428318474b26082f69c9Be825af836f04ED06E8",
-      "0xe72390684D52007Be8c3A3E14018Ad0Af6ff20dF"
-    ],
-    "perBlockSignature": "rewardRate()",
-    "pendingRewardsSignature": "earned(address)",
-    "factories": [
-      "0xe9c29cB475C0ADe80bE0319B74AD112F1e80058F"
-    ],
-    "quoteRouters": [
-      "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be"
-    ]
-  },
-  {
-    "chefId": 6,
-    "type": "masterchef",
-    "image": "",
-    "name": "mmf",
-    "projectLink": "https://mm.finance/farms",
-    "masterchefAddress": "0x6bE34986Fdd1A91e4634eb6b9F8017439b7b5EDc",
-    "rewardToken": "0x97749c9b61f878a880dfe312d2594ae07aed7656",
-    "rewardTokenSymbol": "MMF",
-    "poolIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "perBlockSignature": "meerkatPerBlock()",
-    "pendingRewardsSignature": "pendingMeerkat(uint256,address)",
-    "factories": [
-      "0xd590cC180601AEcD6eeADD9B7f2B7611519544f4"
-    ],
-    "quoteRouters": [
-      "0x145677FC4d9b8F19B5D56d1820c48e0443049a30"
-    ],
-    "referralMode": true,
-    "stakingMode": false,
-    "hasDepositFee": false
-  },
-  {
-    "chefId": 7,
-    "type": "masterchef",
-    "image": "",
-    "name": "chrono",
-    "projectLink": "https://chronoswap.org/farms",
-    "masterchefAddress": "0x3790F3A1cf8A478042Ec112A70881Dcfa9c7fd2a",
-    "rewardToken": "0x322e21dcace43d319646756656b29976291d7c76",
-    "rewardTokenSymbol": "CNO",
-    "poolIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21
-    ],
-    "perBlockSignature": "cakePerBlock()",
-    "pendingRewardsSignature": "pendingCake(uint256,address)",
-    "factories": [
-      "0x6C50Ee65CFcfC59B09C570e55D76daa7c67D6da5"
-    ],
-    "quoteRouters": [
-      "0x5bFc95C3BbF50579bD57957cD074fa96a4d5fF9F"
-    ],
-    "referralMode": false,
-    "stakingMode": true,
-    "hasDepositFee": false
-  },
-  {
-    "chefId": 8,
-    "type": "masterchef",
-    "image": "",
-    "name": "ducky",
-    "projectLink": "https://duckydefi.com/farms",
-    "masterchefAddress": "0xf5f678221551340Afb266D26eaeAEE7860746D42",
-    "rewardToken": "0xFD71FC52D34eD1Cfc8363e5528285B12b6b942c2",
-    "rewardTokenSymbol": "DEGG",
-    "poolIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
-    ],
-    "perBlockSignature": "deggPerBlock()",
-    "pendingRewardsSignature": "pendingDegg(uint256,address)",
-    "factories": [
-      "0x796e38bb00f39a3d39ab75297d8d6202505f52e2"
-    ],
-    "quoteRouters": [
-      "0x28a10fE91d4a8D0637999a903eEf9Ad5b1D9947C"
-    ],
-    "referralMode": false,
-    "stakingMode": true,
-    "hasDepositFee": true
-  },
-  {
-    "chefId": 9,
-    "type": "masterchef",
-    "image": "",
-    "name": "gaur",
-    "projectLink": "https://gaur.money/farms",
-    "masterchefAddress": "0x2C5B74Dd4b8429Bcc1641e1eD2BAbFF5B839ccBD",
-    "rewardToken": "0x9ce609804884b862f2149414ac0de6d17994700b",
-    "rewardTokenSymbol": "GSHARE",
-    "poolIds": [
-      0,
-      1
-    ],
-    "perBlockSignature": "tSharePerSecond()",
-    "pendingRewardsSignature": "pendingShare(uint256,address)",
-    "factories": [
-      "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11"
-    ],
-    "quoteRouters": [
-      "0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918"
-    ],
-    "referralMode": false,
-    "stakingMode": false,
-    "hasDepositFee": false,
-    "isTimeBased": true,
-    "getMultiplier": false
-  },
-  {
-    "chefId": 10,
-    "type": "masterchef",
-    "image": "",
-    "name": "gaur",
-    "projectLink": "https://gaur.money/farms",
-    "masterchefAddress": "0x0ed369860B43F0898b6B18a616aB5798127E32A3",
-    "rewardToken": "0xf14af8434e39e35d4e660a3d93ef920c9711ebb9",
-    "rewardTokenSymbol": "GAUR",
-    "poolIds": [
-      0
-    ],
-    "perBlockSignature": [
-      "epochGaurPerSecond(uint256)",
-      [
-        0
-      ]
-    ],
-    "pendingRewardsSignature": "pendingGAUR(uint256,address)",
-    "factories": [
-      "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11"
-    ],
-    "quoteRouters": [
-      "0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918"
-    ],
-    "referralMode": false,
-    "stakingMode": false,
-    "hasDepositFee": false,
-    "isTimeBased": true,
-    "getMultiplier": false
-  }
+    {
+        "chefId": 0,
+        "type": "masterchef_synthetix",
+        "image": "",
+        "name": "crodex",
+        "nameDisplay": "crodex0",
+        "projectLink": "https://swap.crodex.app/#/crx",
+        "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+        "rewardTokenSymbol": "CRX",
+        "poolContracts": [
+            "0xDb752eB155F6075d4Ba0e09c371eB5eBB0D4bAA5",
+            "0xc2FF850F3921C1dbeD263aa1Fa94FE2A898870a8",
+            "0x681E1dC139FEB9024F1C63b37673cFCD630817Bb",
+            "0xcdd27c1C74631700CA0Fa165f3450435C8D009f4",
+            "0x81E200976B7928aEFD34CE51544e65FE73e88bE4",
+            "0x8857591ea846cB23795538a7521c868f0E0D6844",
+            "0x0f1e250f10F6AEb95A1B73DFd1d7f47a420236C4",
+            "0x5d05Ce6ae9FDC9dC3fBba240a98320Bc604f80a7",
+            "0x55B0FC13045B0bf6CD74631246b92f7abCFcCca2",
+            "0x12EE4bc798Fd985195b0d293c2c61fBf3DcDfe04",
+            "0x7d29D4b61E8A0A482BDf8e6c9b1985c67dD43780",
+            "0xAE7E71e15547dA622eaeAfA9b4272B4Ac1f9615a",
+            "0x866a0A67CfDe50b53361dE76b2013F4f134d347C",
+            "0xfA216318992dDE204b32f896a1b7897fdc8c6f27",
+            "0xeE1B28B5922426D8B1A9169F0e9681c2D870ECe3",
+            "0xe8aD609cb055329d84e6F7f430b098B46E9d3f51",
+            "0xd34d5d5D635b3090b85c3A3A96B0E8d78316aE0f",
+            "0xf632373d4cEc094d90B60ca509679332E0013183",
+            "0x485D894425e7B22822D2851d5622de9A99d249A1",
+            "0x5a25d023F298025aE1eC0549Fcba5F0f3D6c7Fc2",
+            "0x536F4b39D659c17C4255E2d235f5fdb836Fa165E",
+            "0xf3EC6425c71613Fb2f1c225C535bBd32221C070e",
+            "0x9F6a444C79F1Cb15B1e6CE3EB8DcB1112036ad7C"
+        ],
+        "perBlockSignature": "rewardRate()",
+        "pendingRewardsSignature": "earned(address)",
+        "factories": [
+            "0xe9c29cB475C0ADe80bE0319B74AD112F1e80058F"
+        ],
+        "quoteRouters": [
+            "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be"
+        ]
+    },
+    {
+        "chefId": 1,
+        "type": "masterchef_synthetix",
+        "image": "",
+        "name": "photon",
+        "projectLink": "https://photonswap.finance/#/photon",
+        "rewardToken": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+        "rewardTokenSymbol": "PHOTON",
+        "poolContracts": [
+            "0xE799eF8FBe2A8601914480aD67ed6ED57eb6cb0C"
+        ],
+        "perBlockSignature": "rewardRate()",
+        "pendingRewardsSignature": "earned(address)",
+        "factories": [
+            "0x462C98Cae5AffEED576c98A55dAA922604e2D875"
+        ],
+        "quoteRouters": [
+            "0x69004509291F4a4021fA169FafdCFc2d92aD02Aa"
+        ]
+    },
+    {
+        "chefId": 2,
+        "type": "masterchef",
+        "image": "",
+        "name": "vvs",
+        "projectLink": "https://vvs.finance/farms",
+        "masterchefAddress": "0xDccd6455AE04b03d785F12196B492b18129564bc",
+        "rewardToken": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+        "rewardTokenSymbol": "VVS",
+        "poolIds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "perBlockSignature": "vvsPerBlock()",
+        "pendingRewardsSignature": "pendingVVS(uint256,address)",
+        "factories": [
+            "0x3B44B2a187a7b3824131F8db5a74194D0a42Fc15"
+        ],
+        "quoteRouters": [
+            "0x145863Eb42Cf62847A6Ca784e6416C1682b1b2Ae"
+        ],
+        "referralMode": false,
+        "stakingMode": true,
+        "hasDepositFee": false
+    },
+    {
+        "chefId": 3,
+        "type": "masterchef",
+        "image": "",
+        "name": "crona",
+        "projectLink": "https://app.cronaswap.org/farms",
+        "masterchefAddress": "0x77ea4a4cF9F77A034E4291E8f457Af7772c2B254",
+        "rewardToken": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+        "rewardTokenSymbol": "CRONA",
+        "poolIds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        "perBlockSignature": "cronaPerSecond()",
+        "pendingRewardsSignature": "pendingCrona(uint256,address)",
+        "factories": [
+            "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11"
+        ],
+        "quoteRouters": [
+            "0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918"
+        ],
+        "referralMode": false,
+        "stakingMode": true,
+        "hasDepositFee": false,
+        "isTimeBased": true
+    },
+    {
+        "chefId": 4,
+        "type": "masterchef",
+        "image": "",
+        "name": "smolswap",
+        "projectLink": "https://www.smolswap.com/farm",
+        "masterchefAddress": "0x66A5f06d9c8Bdc27bb0768eefF71D22B468fB464",
+        "rewardToken": "0x2ad63da83d6ff5da9e716dcae844d4f157405bdd",
+        "rewardTokenSymbol": "SMOL",
+        "poolIds": [
+            0,
+            2,
+            4,
+            8,
+            9,
+            10,
+            18,
+            19,
+            3,
+            5,
+            6
+        ],
+        "perBlockSignature": "smolPerBlock()",
+        "pendingRewardsSignature": "pendingSmol(uint256,address)",
+        "factories": [
+            "0x7aa2149ff9ef4a09d4ace72c49c26aae8c89fb48"
+        ],
+        "quoteRouters": [
+            "0x8118DD9fED86523Bf724e2EC5f56055Da0668AF4"
+        ],
+        "referralMode": false,
+        "stakingMode": true,
+        "hasDepositFee": false
+    },
+    {
+        "chefId": 5,
+        "type": "masterchef_synthetix",
+        "image": "",
+        "name": "crodex",
+        "nameDisplay": "crodex1",
+        "projectLink": "https://swap.crodex.app/#/crx",
+        "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+        "rewardTokenSymbol": "CRX",
+        "poolContracts": [
+            "0xb0d451f6d8EFbc080e77889F44cBc6C1Cd4F25f6",
+            "0x64C1122AB542382d93f7893E7720cAd073a7D5BD",
+            "0x62dCf86B773727AC13aE4fAa3b914238dCdB34C7",
+            "0x89A768ec65AA60ecf517DCFD7C91346974ea2cf6",
+            "0x1ce36A6AE1426B797ec59d62ab7bf53435d64F45",
+            "0xb17949E524FCb77AD4b2A1bAdfA0c7153F2724e0",
+            "0xB5257a8073b7E35526926E69bCcFB5a0aAc3479a",
+            "0x12EC8ca29a7E27430a80c4014cf2e4Ea6080fC0c",
+            "0x208e1eC84b694D1266202a83c5F5c8B68ECc6034",
+            "0x1086AAa99fDd0CB4b8907627157e63EA1E9b9909",
+            "0x952C2B368A08cD21BC98B20aA79244fc6B7e3dD3",
+            "0xFc606CF4b0c8acea929D644Cb321159bd212c646",
+            "0x11615D7F7A2564Fe1336c68afA42294bA2146d18",
+            "0x36F579df3F4256f25f8E5067E3036f1d533885A8",
+            "0x61F0E0E84f417f2bAf9baD2716Fed6EcE7920b88",
+            "0x91d6C69f09c864146631481F7aFfc6BcD17a27ee",
+            "0x4c952A4337043ae44F0f2C5d168a6C53644C58DD",
+            "0x955F762ad1B56E93d0d28A36aa74cE4FE04c7a8C",
+            "0x0703C621E635634d31e143368910beA1BDbe1179",
+            "0x3428318474b26082f69c9Be825af836f04ED06E8",
+            "0xe72390684D52007Be8c3A3E14018Ad0Af6ff20dF",
+            "0x29eFeCb2749fc99F781C789073F51B21197011FE",
+            "0xd6498AD0F4a333a88d2cfB72719bd05b48a2B358"
+        ],
+        "perBlockSignature": "rewardRate()",
+        "pendingRewardsSignature": "earned(address)",
+        "factories": [
+            "0xe9c29cB475C0ADe80bE0319B74AD112F1e80058F"
+        ],
+        "quoteRouters": [
+            "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be"
+        ]
+    },
+    {
+        "chefId": 6,
+        "type": "masterchef",
+        "image": "",
+        "name": "mmf",
+        "projectLink": "https://mm.finance/farms",
+        "masterchefAddress": "0x6bE34986Fdd1A91e4634eb6b9F8017439b7b5EDc",
+        "rewardToken": "0x97749c9b61f878a880dfe312d2594ae07aed7656",
+        "rewardTokenSymbol": "MMF",
+        "poolIds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "perBlockSignature": "meerkatPerBlock()",
+        "pendingRewardsSignature": "pendingMeerkat(uint256,address)",
+        "factories": [
+            "0xd590cC180601AEcD6eeADD9B7f2B7611519544f4"
+        ],
+        "quoteRouters": [
+            "0x145677FC4d9b8F19B5D56d1820c48e0443049a30"
+        ],
+        "referralMode": true,
+        "stakingMode": false,
+        "hasDepositFee": false
+    },
+    {
+        "chefId": 7,
+        "type": "masterchef",
+        "image": "",
+        "name": "chrono",
+        "projectLink": "https://chronoswap.org/farms",
+        "masterchefAddress": "0x3790F3A1cf8A478042Ec112A70881Dcfa9c7fd2a",
+        "rewardToken": "0x322e21dcace43d319646756656b29976291d7c76",
+        "rewardTokenSymbol": "CNO",
+        "poolIds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ],
+        "perBlockSignature": "cakePerBlock()",
+        "pendingRewardsSignature": "pendingCake(uint256,address)",
+        "factories": [
+            "0x6C50Ee65CFcfC59B09C570e55D76daa7c67D6da5"
+        ],
+        "quoteRouters": [
+            "0x5bFc95C3BbF50579bD57957cD074fa96a4d5fF9F"
+        ],
+        "referralMode": false,
+        "stakingMode": true,
+        "hasDepositFee": false
+    },
+    {
+        "chefId": 8,
+        "type": "masterchef",
+        "image": "",
+        "name": "ducky",
+        "projectLink": "https://duckydefi.com/farms",
+        "masterchefAddress": "0xf5f678221551340Afb266D26eaeAEE7860746D42",
+        "rewardToken": "0xFD71FC52D34eD1Cfc8363e5528285B12b6b942c2",
+        "rewardTokenSymbol": "DEGG",
+        "poolIds": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "perBlockSignature": "deggPerBlock()",
+        "pendingRewardsSignature": "pendingDegg(uint256,address)",
+        "factories": [
+            "0x796e38bb00f39a3d39ab75297d8d6202505f52e2"
+        ],
+        "quoteRouters": [
+            "0x28a10fE91d4a8D0637999a903eEf9Ad5b1D9947C"
+        ],
+        "referralMode": false,
+        "stakingMode": true,
+        "hasDepositFee": true
+    },
+    {
+        "chefId": 9,
+        "type": "masterchef",
+        "image": "",
+        "name": "gaur",
+        "projectLink": "https://gaur.money/farms",
+        "masterchefAddress": "0x2C5B74Dd4b8429Bcc1641e1eD2BAbFF5B839ccBD",
+        "rewardToken": "0x9ce609804884b862f2149414ac0de6d17994700b",
+        "rewardTokenSymbol": "GSHARE",
+        "poolIds": [
+            0,
+            1
+        ],
+        "perBlockSignature": "tSharePerSecond()",
+        "pendingRewardsSignature": "pendingShare(uint256,address)",
+        "factories": [
+            "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11"
+        ],
+        "quoteRouters": [
+            "0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918"
+        ],
+        "referralMode": false,
+        "stakingMode": false,
+        "hasDepositFee": false,
+        "isTimeBased": true,
+        "getMultiplier": false
+    },
+    {
+        "chefId": 10,
+        "type": "masterchef",
+        "image": "",
+        "name": "gaur",
+        "projectLink": "https://gaur.money/farms",
+        "masterchefAddress": "0x0ed369860B43F0898b6B18a616aB5798127E32A3",
+        "rewardToken": "0xf14af8434e39e35d4e660a3d93ef920c9711ebb9",
+        "rewardTokenSymbol": "GAUR",
+        "poolIds": [
+            0
+        ],
+        "perBlockSignature": [
+            "epochGaurPerSecond(uint256)",
+            [
+                0
+            ]
+        ],
+        "pendingRewardsSignature": "pendingGAUR(uint256,address)",
+        "factories": [
+            "0x73A48f8f521EB31c55c0e1274dB0898dE599Cb11"
+        ],
+        "quoteRouters": [
+            "0xcd7d16fB918511BF7269eC4f48d61D79Fb26f918"
+        ],
+        "referralMode": false,
+        "stakingMode": false,
+        "hasDepositFee": false,
+        "isTimeBased": true,
+        "getMultiplier": false
+    }
 ]
