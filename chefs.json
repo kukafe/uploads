@@ -217,7 +217,9 @@
             "0x3428318474b26082f69c9Be825af836f04ED06E8",
             "0xe72390684D52007Be8c3A3E14018Ad0Af6ff20dF",
             "0x29eFeCb2749fc99F781C789073F51B21197011FE",
-            "0xd6498AD0F4a333a88d2cfB72719bd05b48a2B358"
+            "0xd6498AD0F4a333a88d2cfB72719bd05b48a2B358",
+            "0xd48A5B66A0AeEF408D5651b7B6a6163066C3F11E",
+            "0xf5c39E2Fc06958edf71b73044D8605888c633d2B"
         ],
         "perBlockSignature": "rewardRate()",
         "pendingRewardsSignature": "earned(address)",

@@ -1865,5 +1865,37 @@
       "lpBaseTokenAddress": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
       "sousId": 153,
       "vaultShareFarmContract": null
+  },
+  "KAFE-RELAYCRO-CRX3": {
+      "poolCategory": "Synthetix Vault",
+      "stakingToken": "0x65B51aad23e20C5937a7A3a19112fCC6d71a524A",
+      "routerForQuote": "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be",
+      "poolId": 1057,
+      "strategy": "0x31308B8C890Aa02e2d2574A65ed244918c163210",
+      "vault": "0xAFa3939fd041fb7FdCFB8EC26bb15109d85c0487",
+      "chef": "0xd48A5B66A0AeEF408D5651b7B6a6163066C3F11E",
+      "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+      "pendingRewardSignature": "earned(address)",
+      "rewardRateFunction": "rewardRate()",
+      "isLP": true,
+      "lpBaseTokenAddress": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "sousId": 154,
+      "vaultShareFarmContract": null
+  },
+  "KAFE-CROBUSD-CRX3": {
+      "poolCategory": "Synthetix Vault",
+      "stakingToken": "0xC638F959f71814ffFF0A445D7eD052D67dA6073D",
+      "routerForQuote": "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be",
+      "poolId": 1058,
+      "strategy": "0x6535f7f6A0EF1426606ae9cA779389849Efe4E21",
+      "vault": "0x2C90F7e6994e0E4bfCab61F080C49c3D1E275B29",
+      "chef": "0xf5c39E2Fc06958edf71b73044D8605888c633d2B",
+      "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+      "pendingRewardSignature": "earned(address)",
+      "rewardRateFunction": "rewardRate()",
+      "isLP": true,
+      "lpBaseTokenAddress": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "sousId": 155,
+      "vaultShareFarmContract": null
   }
 }
