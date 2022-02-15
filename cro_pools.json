@@ -1454,7 +1454,7 @@
         "poolId": 1053,
         "strategy": "0x994cFEfe69A9da5B41aC0183553B41C2B42ef7C4",
         "vault": "0x0007D8c21FB7a6750A368067025752B104A22643",
-        "chef": "0x3428318474b26082f69c9Be825af836f04ED06E8",
+        "chef": "0xb23Db803631093060Eb3D5521570aCF7e1449a1a",
         "rewardToken": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
         "pendingRewardSignature": "earned(address)",
         "rewardRateFunction": "rewardRate()",
